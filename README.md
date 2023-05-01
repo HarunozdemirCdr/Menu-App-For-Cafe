@@ -14,7 +14,7 @@ They can be able to see the price, content, and average preparation time of the 
 The job tracking app can be used many different cafe and sectors.
 This programme can be used in cafes, in dessert shops, in every business that needs a menu...
 
-https://github.com/HarunozdemirCdr/Job-Tracking-App-For-Companies
+https://github.com/HarunozdemirCdr/Menu-App-For-Cafe
 
 #### Some important features
 
