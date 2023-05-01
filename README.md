@@ -1,6 +1,9 @@
 ![1](https://user-images.githubusercontent.com/108359272/235537626-bca19902-bdd1-423f-9ed8-82ad1d10e8b6.png)
 
 
+## Screenshots
+
+You can see the images of the application in the 'screenshots' section.
 
 ## Description
 
