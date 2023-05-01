@@ -1,16 +1,37 @@
-# qr_code_menu
+![1](https://user-images.githubusercontent.com/108359272/235537626-bca19902-bdd1-423f-9ed8-82ad1d10e8b6.png)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+Thanks to this application, there will be no need to print menus in cafes.
+Customers will be able to see the products on the menu thanks to this application.
+They can be able to see the price, content, and average preparation time of the product.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Where can it be used?
+
+The job tracking app can be used many different cafe and sectors.
+This programme can be used in cafes, in dessert shops, in every business that needs a menu...
+
+https://github.com/HarunozdemirCdr/Job-Tracking-App-For-Companies
+
+#### Some important features
+
+The Menu app is a cloud-based program.
+It connects to the server on Firebase and data is not kept on a physical server.
+This menu app is an android,ios and web application.
+
+- ***Application content***
+
+
+- **CATEGORIES**: Customers can see product categories in the business.
+  
+- **PREPARATION TIME**:  Customers wonder how long it will take to prepare the products they order. Thanks to this application, you can see the preparation times of the products.
+
+- **PRICE**: Customers can see the price of products.
+
+- **PRODUCTS**: Customers can see the products in the business.
+
+Note: This application is connected to the hosting service by firebase. Firebase web connection is also made. However, it is not redirected to a website with Firebase hosting redirect. With a little editing, it can be a QR code menu application. However, it is not currently a qr coded menu application. You can download it as Android and IOS.
+
