@@ -22,7 +22,9 @@ The Menu app is a cloud-based program.
 It connects to the server on Firebase and data is not kept on a physical server.
 This menu app is an android,ios and web application.
 
-- ***Application content***
+- ***Application content*** :
+
+
 
 
 - **CATEGORIES**: Customers can see product categories in the business.
